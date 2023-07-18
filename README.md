@@ -25,8 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostas696&show_icons=true&locale=en&layout=compact" alt="kostas696" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kostas696&show_icons=true&locale=en" alt="kostas696" /></p>
-
-Let's Connect
-I'm always eager to collaborate and explore new opportunities in the data science realm. Connect with me on LinkedIn or check out more of my work on GitHub.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostas696)](https://github.com/anuraghazra/github-readme-stats)
