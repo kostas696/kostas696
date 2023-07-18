@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostas696&label=Profile%20views&color=0e75b6&style=flat" alt="kostas696" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostas696" alt="kostas696" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostas696" alt="kostas696" /></a> </p>
 
 - 🌱 I’m currently learning **Climate Change and AI.**
 
