@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/konstantinos-soufleros/](https://www.linkedin.com/in/konstantinos-soufleros/)
 
-- ⚡ Fun fact **Did you know that the world's total data is doubling approximately every two years?**
+- ⚡ Fun data fact: **Did you know that the world's total data is doubling approximately every two years?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
