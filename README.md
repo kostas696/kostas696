@@ -7,7 +7,7 @@
 
 - ⚖ I’m currently learning **AI and Data Ethics.**
 
-- 👨‍💻 All of my projects are available at [https://kostas696.github.io/](https://kostas696.github.io/)
+- 👨‍💻 My project portfolio is available at [https://kostas696.github.io/](https://kostas696.github.io/)
 
 - 📫 How to reach me **soufleros.kostas@gmail.com**
 
