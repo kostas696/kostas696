@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostas696" alt="kostas696" /></a> </p>
 
-- ⚖ I’m currently learning **MLOps in MLOps-Zoomcamp**
+- ⚖ I’m currently learning **Google Machine Learning Engineer Professional Certificate**
 
 - 👨‍💻 My project portfolio is available at [https://kostas696.github.io/](https://kostas696.github.io/)
 
