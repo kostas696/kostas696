@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostas696" alt="kostas696" /></a> </p>
 
-- ⚖ I’m currently learning **Google Machine Learning Engineer Professional Certificate**
+- ⚖ I’m currently learning **Machine Learning Operations Specialization from Duke University**
 
-- 👨‍💻 My project portfolio is available at [https://kostas696.github.io/](https://kostas696.github.io/)
+- 👨‍💻 My project portfolio is available at [https://kostas696.github.io/](https://www.datascienceportfol.io/kostas696)
 
 - 📫 How to reach me **soufleros.kostas@gmail.com**
 
