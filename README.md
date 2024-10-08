@@ -9,7 +9,7 @@
 
 - 👨‍💻 Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/kostas696)
 
-- 📫 How to reach me **soufleros.kostas@gmail.com**
+- 📫 How to reach me **[Gmail](soufleros.kostas@gmail.com)**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/konstantinos-soufleros/)
 
