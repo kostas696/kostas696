@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostas696" alt="kostas696" /></a> </p>
 
-- ⚖ I’m currently learning **Machine Learning Operations Specialization from Duke University**
+- ⚖ I’m currently learning **Machine Learning Operations (MLOps) Specialization from Duke University**
 
 - 👨‍💻 Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/kostas696)
 
