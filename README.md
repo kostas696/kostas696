@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soufleros.kostas@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/konstantinos-soufleros/](https://www.linkedin.com/in/konstantinos-soufleros/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/konstantinos-soufleros/)
 
 - ⚡ Fun data fact: **Did you know that the world's total data is doubling approximately every two years?**
 
