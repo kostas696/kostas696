@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Konstantinos Soufleros.</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kostas696&label=Profile%20views&color=0e75b6&style=flat" alt="kostas696" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Konstantinos+Soufleros!;" />
+</h1>
+
 <h3 align="center">I am a Certified Data Scientist and Machine Learning Engineer with a strong foundation in problem-solving, analytical thinking, and decision-making, supported by my background in civil engineering and business management. I have extensive experience in developing and deploying machine learning models, working with natural language processing, and translating complex data into actionable business strategies. My goal is to continuously learn and evolve while leveraging data to uncover meaningful patterns, predict trends, and deliver innovative, data-driven solutions that impact business success.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kostas696&label=Profile%20views&color=0e75b6&style=flat" alt="kostas696" /> </p>
+<hr/>
 
 - ⚖ I’m currently learning **Machine Learning Operations (MLOps) Specialization from Duke University**
 
