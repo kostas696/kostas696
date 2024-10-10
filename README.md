@@ -24,98 +24,38 @@
   <a href="https://github.com/kostas696" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
-  <a href="https://kostas696.github.io" target="_blank">
+  <a href="https://www.datascienceportfol.io/kostas696" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Cloud Platforms -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> 
-  </a>  
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <!-- Tools -->   
-  <a href="https://milvus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/milvus.svg" alt="milvus" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>
-   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
-  </a>  
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" alt="tableau" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" alt="excel" width="40" height="40"/> 
-  </a>
-  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> 
-  </a>
-</p>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <!-- Cloud Platforms -->
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=python,mysql,r" />
+    <!-- Tools and Libraries -->
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,docker,kubernetes,spark,opencv,git,vscode" /><br>
+    <!-- CI/CD & Monitoring Tools -->
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+    <!-- Custom Badges for Tools Not Available on Skillicons -->
+    <img src="https://img.shields.io/badge/Milvus-00758F?style=for-the-badge&logo=milvus&logoColor=white" />
+    <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Seaborn-4AB7D8?style=for-the-badge&logo=seaborn&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" />
+</div>
+
+<br/>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostas696&show_icons=true&locale=en&layout=compact" alt="kostas696" /></p>
 
