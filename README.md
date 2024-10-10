@@ -42,13 +42,13 @@
      <!-- Cloud Platforms -->
   <!-- Cloud Platforms -->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="60" height="60"/> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="60"/> 
+    <img src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_AmazonWebServices.svg" alt="aws" width="60" height="60"/> 
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google cloud" width="60" height="60"/> 
   </a>  
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
