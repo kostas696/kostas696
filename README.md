@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostas696&label=Profile%20views&color=0e75b6&style=flat" alt="kostas696" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kostas696" alt="kostas696" /></a> </p>
-
 - ⚖ I’m currently learning **Machine Learning Operations (MLOps) Specialization from Duke University**
 
 - 👨‍💻 Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/kostas696)
@@ -15,10 +13,21 @@
 
 - ⚡ Fun data fact: **Did you know that the world's total data is doubling approximately every two years?**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/konstantinos-soufleros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/konstantinos-soufleros/" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+<div align="center"> 
+  <a href="soufleros.kostas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/konstantinos-soufleros" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/kostas696" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://kostas696.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
