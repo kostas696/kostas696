@@ -66,6 +66,9 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" alt="tableau" width="40" height="40"/> 
   </a>
