@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Soufleros.</h1>
-<h3 align="center">A data enthusiast, aspiring data scientist, and storyteller of numbers. I'm passionate about extracting insights from data and using them to make informed decisions. I have a strong background in data analysis, machine learning, and statistical modeling. With a keen eye for detail and a love for solving complex problems, I am constantly exploring new data-driven challenges. My goal is to leverage data to uncover meaningful patterns, predict trends, and drive innovative solutions.</h3>
+<h3 align="center">I am a Certified Data Scientist and Machine Learning Engineer with a strong foundation in problem-solving, analytical thinking, and decision-making, supported by my background in civil engineering and business management. I have extensive experience in developing and deploying machine learning models, working with natural language processing, and translating complex data into actionable business strategies. My goal is to continuously learn and evolve while leveraging data to uncover meaningful patterns, predict trends, and deliver innovative, data-driven solutions that impact business success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostas696&label=Profile%20views&color=0e75b6&style=flat" alt="kostas696" /> </p>
 
