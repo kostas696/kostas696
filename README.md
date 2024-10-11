@@ -94,6 +94,9 @@
    <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="60" height="60"/> 
   </a>
+   <a href="https://dvc.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="60" height="60"/> 
+  </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60"/> 
   </a>
