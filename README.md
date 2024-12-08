@@ -8,7 +8,7 @@
 
 <hr/>
 
-- ⚖ I’m currently learning **Machine Learning Operations (MLOps) Specialization from Duke University**
+- ⚖ I’m currently learning **Large Language Model Operations (LLMOps) Specialization from Duke University**
 
 - 👨‍💻 Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/kostas696)
 
