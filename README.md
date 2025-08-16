@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Konstantinos+Soufleros!;" />
 </h1>
 
-<h3 align="center">I am a Certified Data Scientist and Machine Learning Engineer with a strong foundation in problem-solving, analytical thinking, and decision-making, supported by my background in civil engineering and business management. I have extensive experience in developing and deploying machine learning models, working with natural language processing, and translating complex data into actionable business strategies. My goal is to continuously learn and evolve while leveraging data to uncover meaningful patterns, predict trends, and deliver innovative, data-driven solutions that impact business success.</h3>
+<h3 align="center">I am an AI Engineer at GET who turns data and large language models into reliable, production systems. I focus on NLP, RAG, and agentic workflows with a strong MLOps mindset across cloud platforms. With roots in civil engineering and an MBA, I bridge deep tech with business outcomes—shipping solutions that are observable, reproducible, and measurably useful.</h3>
 
 <hr/>
 
-- ⚖ I’m currently learning **Large Language Model Operations (LLMOps) Specialization from Duke University**
+- ⚖ I’m currently learning **IBM AI Engineering**
 
 - 👨‍💻 Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/kostas696)
 
